@@ -9,7 +9,8 @@
  *       calculates the sum, the average and the largest element.          *
  *                                                                         *
  *       More Details:                                                     *
- *                                          *
+ *       https://github.com/reymillenium/20240621_0127_arrays_intro        *
+ *                                                                         *
  *                                                                         *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  **/
